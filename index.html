@@ -1,0 +1,155 @@
+---
+layout: default
+---
+{% include base.html %}
+<section id="intro" class="hero is-fullheight">
+  	<div class="hero-body">
+		<div class="container">
+			<div class="columns is-centered is-vcentered">
+				<div class="column is-fullwidth has-text-centered">
+					<h2>
+						PhinDing Answers
+						<br />
+						- A podcast about the postdoc experience -
+					</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a href="#episodes">
+		<div>Start listening!</div>
+		<span class="icon is-large">
+		  <i class="fas fa-l2x fa-play"></i>
+		</span>
+	</a>
+</section>
+
+{% if site.data.content.episodes %}
+<section id="episodes" class="section" name="podcast">
+	<div class="container">
+		<h2>LEARN about the experiences of those who have done it</h2>
+		{% for episode in site.data.content.episodes %}
+
+{% if episode.transcript_file %}
+{% assign transcript_path = 'transcripts/'| append: episode.transcript_file | append: '.md' %}
+{% capture transcript_content %}{% include_relative {{transcript_path}} %}{% endcapture %}
+<div class="modal" id="transcript-{{ forloop.index }}">
+	<div class="modal-background"></div>
+	<div class="modal-content">
+		<div class="box">
+			<div class="content">
+	  			{{ transcript_content | markdownify }}
+	  		</div>
+		</div>
+	</div>
+	<button class="modal-close is-large" aria-label="close"></button>
+</div>
+{% endif %}
+
+		<div class="box">
+			<div class="columns is-vcentered">
+			<div class="column">
+
+			<div class="columns is-vcentered is-mobile">
+				<div class="column is-narrow">
+					<span class="count">
+						{{ forloop.index }}
+					</span>
+				</div>
+				<div class="column">
+					<h3>{{ episode.name }}</h3>
+					<a href="{{ episode.download_link }}">Download episode</a>{% if episode.transcript_file %}&nbsp;&nbsp;|&nbsp;&nbsp;<a data-modal="#transcript-{{ forloop.index }}" href="#">Read transcript</a>{% endif %}{% if episode.exercises_link %}&nbsp;&nbsp;|&nbsp;&nbsp;<a href="{{ episode.exercises_link }}" target="_blank">Do the exercises</a>{% endif %}
+				</div>
+			</div>
+
+			</div>
+			<div class="column is-narrow">
+					<a href="{{ episode.download_link }}" data-embed-link="{{ episode.embed_link }}" class="button is-primary is-large player-button" target="_blank">
+						<span class="icon">
+						  <i class="fas fa-play"></i>
+						</span>&nbsp;
+						Play
+					</a>
+			</div>
+			</div>
+		</div>
+		{% endfor %}
+
+		<a class="button is-primary is-small" data-modal="#subscribe" href="#">
+			<span class="icon">
+			  <i class="fas fa-rss"></i>
+			</span>&nbsp;
+			Subscribe
+		</a>
+
+	</div>
+	<div id="player-container"></div>
+</section>
+{% endif %}
+<div class="modal" id="subscribe">
+	<div class="modal-background"></div>
+	<div class="modal-content">
+		<div class="box">
+			<div class="content has-text-centered">
+	  			<h2>
+	  				Subscribe on...
+	  			</h2>
+	  			<div class="columns">
+	  				{% if site.data.content.applepodcasts_link %}
+	  				<div class="column">
+	  					<strong><a href="{{ site.data.content.applepodcasts_link }}">
+	  						<img src="{{ '/assets/images/apple_icon.svg' | relative_url }}" alt="Subscribe on Apple Podcasts"><br />
+	  						Apple Podcasts</a></strong>
+	  				</div>
+	  				{% endif %}
+	  				{% if site.data.content.googlepodcasts_link %}
+	  				<div class="column">
+	  					<strong><a href="{{ site.data.content.googlepodcasts_link }}">
+	  						<img src="{{ '/assets/images/google_icon.svg' | relative_url }}" alt="Subscribe on Google Podcasts"><br />
+	  						Google Podcasts</a></strong>
+	  				</div>
+	  				{% endif %}
+	  			</div>
+	  			{% if site.data.content.radiopublic_link %}<a href="{{ site.data.content.radiopublic_link }}">Radiopublic</a>{% endif %}{% if site.data.content.stitcher_link %}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="{{ site.data.content.stitcher_link }}">Stitcher</a>{% endif %}{% if site.data.content.rss_link %}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="{{ site.data.content.rss_link }}">RSS Feed</a>{% endif %}
+	  		</div>
+		</div>
+	</div>
+	<button class="modal-close is-large" aria-label="close"></button>
+</div>
+
+<section id="guests" class="section" name="guests">
+		<div class="columns is-centered">
+			<div class="column is-three-quarters-widescreen">
+				<div class="box">
+					<div class="content">
+					<h2 class="is-inline-block">MEET our guests</h2>
+					<p>Click on the images below to find out more about them!</p>
+					<div class="row">
+  						<div class="grid">
+						<a href="{{base}}/pages/kaela_singleton.html" target="_blank">
+						<img src="{{base}}/assets/images/kaela_sq.jpg" style="width:100%"></a>
+						</div>
+						<div class="grid">
+						<a href="{{base}}/pages/upasana_roy.html" target="_blank">
+						<img src="{{base}}/assets/images/upasana_sq.jpg" style="width:100%"></a>
+						</div>
+						<div class="grid">
+						<a href="{{base}}/pages/serena_tucci.html" target="_blank">
+						<img src="{{base}}/assets/images/serena_sq.jpg" style="width:100%"></a>
+						</div>
+						<div class="grid">
+						<a href="{{base}}/pages/jenny_bratburd.html" target="_blank">
+						<img src="{{base}}/assets/images/jenny_sq.jpg" style="width:100%"></a>
+						</div>
+						<div class="grid">
+						<a href="{{base}}/pages/ericka_peterson.html" target="_blank">
+						<img src="{{base}}/assets/images/ericka_sq.jpg" style="width:100%"></a>
+						</div>
+					</div>
+					</div>
+					
+					</div>
+				</div>
+			</div>
+		</div>
+</section>

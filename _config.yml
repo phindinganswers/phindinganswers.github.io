@@ -1,0 +1,43 @@
+title: PhinDing Answers
+description: A podcast to answer your questions about the postdoc experience, with guests who have already done it!
+baseurl: ""
+url: "https://olayafg.github.io/phindinganswers/"
+
+# Markdown settings
+markdown: kramdown
+
+# Sass settings
+sass:
+  add_charset: true
+  sass_dir: assets/sass
+  style: :compressed
+
+# Build settings
+exclude:
+  - package.json
+  - README.md
+  - CNAME
+  - assets/sass
+
+# Plugin settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Podcast Feed settings
+title:          PhinDing Answers
+email:          phindinganswers@gmail.com
+description:    "PhinDing Answers is a podcast about the postdoc experience through the voices of those who have done it."
+subtitle:       "A podcast to answer all your postdoc questions."
+url:            https://olayafg.github.io/phindinganswers/
+language:       en-us
+author:         PhinDingAnswers
+copyright:      "CC BY-NC-ND 4.0"
+
+feed:
+  collections:
+    episodes:
+      path: "/episodes.xml"
+
+collections:
+  episodes:
