@@ -10,7 +10,7 @@ applepodcasts_link: https://itunes.apple.com/us/podcast/phinding-answers/
 googlepodcasts_link: #
 stitcher_link: https://www.stitcher.com/podcast/phinding-answers
 radiopublic_link: https://radiopublic.com/phinding-answers
-rss_link: http://olayafg.github.io/phindinganswers/podcast.rss
+rss_link: http://phindinganswers.github.io/podcast.rss
 
 episodes:
   - name: Intro - Welcome to PhinDing Answers!
