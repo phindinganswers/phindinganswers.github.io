@@ -1,0 +1,50 @@
+
+google_analytics: UA-216131588-1
+
+# zine_link: /assets/PreserveThisPodcast_Zine_Online.pdf
+# zinePrint_link: /assets/PreserveThisPodcast_Zine_Print.pdf
+# survey_link: /#survey
+twitter_link: https://twitter.com/phindinganswers
+
+applepodcasts_link: https://itunes.apple.com/us/podcast/phinding-answers/
+googlepodcasts_link: #
+stitcher_link: https://www.stitcher.com/podcast/phinding-answers
+radiopublic_link: https://radiopublic.com/phinding-answers
+rss_link: http://olayafg.github.io/phindinganswers/podcast.rss
+
+episodes:
+  - name: Intro - Welcome to PhinDing Answers!
+    embed_link: 
+    download_link: 
+    more_link:
+    transcript_file: transcript-00intro
+  - name: Ep1 — Kaela Singleton
+    embed_link: 
+    download_link: 
+    more_link: 
+    transcript_file: transcript-01kaela
+  - name: Ep2 — Upasana Roy
+    embed_link: 
+    download_link: 
+    more_link: 
+    transcript_file: transcript-02upasana
+  - name: Ep3 — Serena Tucci
+    embed_link: 
+    download_link: 
+    more_link: 
+    transcript_file: transcript-03serena
+  - name: Ep4 — Jenny Bratburd
+    embed_link: 
+    download_link: 
+    more_link:
+    transcript_file: transcript-04jenny
+  - name: Ep5 — Erica Peterson
+    embed_link: 
+    download_link:
+    more_link:
+    transcript_file: transcript-05ericka
+  - name: Outro — All the answers!
+    embed_link: 
+    download_link:
+    more_link:
+    transcript_file: transcript-06answers
