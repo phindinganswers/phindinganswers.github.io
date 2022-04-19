@@ -108,6 +108,12 @@ layout: default
 	  						<img src="{{ '/assets/images/google_icon.svg' | relative_url }}" alt="Subscribe on Google Podcasts"><br />
 	  						Google Podcasts</a></strong>
 	  				</div>
+					{% if site.data.content.spotify_link %}
+	  				<div class="column">
+	  					<strong><a href="{{ site.data.content.spotify_link }}">
+	  						<img src="{{ '/assets/images/spotify_icon.svg' | relative_url }}" alt="Subscribe on Spotify"><br />
+	  						Spotify</a></strong>
+	  				</div>
 	  				{% endif %}
 	  			</div>
 	  			{% if site.data.content.radiopublic_link %}<a href="{{ site.data.content.radiopublic_link }}">Radiopublic</a>{% endif %}{% if site.data.content.stitcher_link %}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="{{ site.data.content.stitcher_link }}">Stitcher</a>{% endif %}{% if site.data.content.rss_link %}&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="{{ site.data.content.rss_link }}">RSS Feed</a>{% endif %}
