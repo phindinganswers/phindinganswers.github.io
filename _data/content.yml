@@ -1,15 +1,13 @@
 
 google_analytics: UA-216131588-1
 
-# zine_link: /assets/PreserveThisPodcast_Zine_Online.pdf
-# zinePrint_link: /assets/PreserveThisPodcast_Zine_Print.pdf
-# survey_link: /#survey
 twitter_link: https://twitter.com/phindinganswers
 
 applepodcasts_link: https://podcasts.apple.com/us/podcast/phinding-answers/id1619777940
 googlepodcasts_link: #
 stitcher_link: https://www.stitcher.com/podcast/phinding-answers
 radiopublic_link: https://radiopublic.com/phinding-answers-GqmYLr
+spotify_link: https://open.spotify.com/show/4N8ikHa3msJKeiUXqUR4ez
 rss_link: http://phindinganswers.github.io/podcast.rss
 
 episodes:
