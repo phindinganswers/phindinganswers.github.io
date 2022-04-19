@@ -12,36 +12,36 @@ rss_link: http://phindinganswers.github.io/podcast.rss
 
 episodes:
   - name: Intro - Welcome to PhinDing Answers!
-    embed_link: 
-    download_link: 
+    embed_link: https://archive.org/embed/phindinganswers_ep00-intro
+    download_link: https://archive.org/download/phindinganswers_ep00-intro/Episode00_Intro.mp3
     more_link:
     transcript_file: transcript-00intro
-  - name: Ep1 — Kaela Singleton
+  - name: Ep1 — Kaela Singleton (coming soon)
     embed_link: 
     download_link: 
     more_link: 
     transcript_file: transcript-01kaela
-  - name: Ep2 — Upasana Roy
+  - name: Ep2 — Upasana Roy (coming soon)
     embed_link: 
     download_link: 
     more_link: 
     transcript_file: transcript-02upasana
-  - name: Ep3 — Serena Tucci
+  - name: Ep3 — Serena Tucci (coming soon)
     embed_link: 
     download_link: 
     more_link: 
     transcript_file: transcript-03serena
-  - name: Ep4 — Jenny Bratburd
+  - name: Ep4 — Jenny Bratburd (coming soon)
     embed_link: 
     download_link: 
     more_link:
     transcript_file: transcript-04jenny
-  - name: Ep5 — Erica Peterson
+  - name: Ep5 — Erica Peterson (coming soon)
     embed_link: 
     download_link:
     more_link:
     transcript_file: transcript-05ericka
-  - name: Outro — All the answers!
+  - name: Outro — All the answers! (coming soon)
     embed_link: 
     download_link:
     more_link:
