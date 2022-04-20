@@ -10,7 +10,7 @@ spotify_link: https://open.spotify.com/show/4N8ikHa3msJKeiUXqUR4ez
 rss_link: https://phindinganswers.github.io/podcast.rss
 
 episodes:
-  - name: Intro - Welcome to PhinDing Answers!
+  - name: Ep0 - Welcome to PhinDing Answers!
     embed_link: https://archive.org/embed/phindinganswers_ep00-intro
     download_link: https://archive.org/download/phindinganswers_ep00-intro/Episode00_Intro.mp3
     more_link:
@@ -40,7 +40,7 @@ episodes:
     download_link:
     more_link:
     transcript_file: transcript-05ericka
-  - name: Outro — All the answers! (coming soon)
+  - name: Ep6 — All the answers! (coming soon)
     embed_link: 
     download_link:
     more_link:
