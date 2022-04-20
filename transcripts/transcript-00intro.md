@@ -1,4 +1,4 @@
-# Ep. 0 --- Welcome to PhinDing Answers! transcript
+# Ep. 0 - Welcome to PhinDing Answers! transcript
 
 [JINGLE:
 
