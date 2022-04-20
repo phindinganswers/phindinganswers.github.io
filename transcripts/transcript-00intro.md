@@ -86,6 +86,6 @@ PETER: With all of that said, we should also note that even though a lot of thes
 
 OLAYA: Please.
 
-OLAYA: One final piece of housekeeping. We will be releasing each of our episodes every Saturday, starting next week. And again, remember, there will be a final episode after we talk to each of our guests where we will gather listeners' comments and reflect on the themes we have discussed across the mini-series. We hope you enjoy our show. For now, you can visit our website at [https://phindinganswers.github.io](phindinganswers.github.io). That's P-H-I-N-D-I-N-G-A-N-S-W-E-R-S dot G-I-T-H-U-B dot I-O. You can also follow us on Twitter [@phindinganswers](https://twitter.com/phindinganswers), again: P-H-I-N-D. And subscribe to this podcast wherever you listen to your podcast. See you soon!
+OLAYA: One final piece of housekeeping. We will be releasing each of our episodes every Saturday, starting next week. And again, remember, there will be a final episode after we talk to each of our guests where we will gather listeners' comments and reflect on the themes we have discussed across the mini-series. We hope you enjoy our show. For now, you can visit our website at [phindinganswers.github.io](https://phindinganswers.github.io). That's P-H-I-N-D-I-N-G-A-N-S-W-E-R-S dot G-I-T-H-U-B dot I-O. You can also follow us on Twitter [@phindinganswers](https://twitter.com/phindinganswers), again: P-H-I-N-D. And subscribe to this podcast wherever you listen to your podcast. See you soon!
 
 [*MUSIC: Eggy Toast - Lose your head*]
