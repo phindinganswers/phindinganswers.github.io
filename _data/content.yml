@@ -6,9 +6,8 @@ twitter_link: https://twitter.com/phindinganswers
 applepodcasts_link: https://podcasts.apple.com/us/podcast/phinding-answers/id1619777940
 googlepodcasts_link: #
 stitcher_link: https://www.stitcher.com/podcast/phinding-answers
-radiopublic_link: https://radiopublic.com/phinding-answers-GqmYLr
 spotify_link: https://open.spotify.com/show/4N8ikHa3msJKeiUXqUR4ez
-rss_link: http://phindinganswers.github.io/podcast.rss
+rss_link: https://phindinganswers.github.io/podcast.rss
 
 episodes:
   - name: Intro - Welcome to PhinDing Answers!
@@ -36,7 +35,7 @@ episodes:
     download_link: 
     more_link:
     transcript_file: transcript-04jenny
-  - name: Ep5 — Erica Peterson (coming soon)
+  - name: Ep5 — Ericka Peterson (coming soon)
     embed_link: 
     download_link:
     more_link:
