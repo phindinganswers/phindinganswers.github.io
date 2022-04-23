@@ -27,7 +27,7 @@ plugins:
 # Podcast Feed settings
 title:          PhinDing Answers
 email:          phindinganswers@gmail.com
-description:    "PhinDing Answers is a podcast about the postdoc experience through the voices of those who have done it."
+description:    "Are you about to finish your PhD? Or are you a recent graduate with your shining title in hand? Or maybe a current postdoc, uncertain with what you’re getting from your experience? In this podcast mini-series, PhinDing Answers (with a PhD) we talk about some of the many options for PhD degree holders and how doing a postdoc is just one of those options. Is it the right path for you? And what is a postdoc anyway? Why should you do one? In this podcast, former postdoc hosts Dr. Olaya Fernández Gayol and Dr. Peter Myers address the questions around the postdoc position with a panel of guests spanning career stages, choices and geographical locations. Let’s PhinD some answers together!"
 subtitle:       "A podcast to answer all your postdoc questions."
 url:            https://phindinganswers.github.io
 language:       en-us
