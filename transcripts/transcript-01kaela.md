@@ -379,7 +379,7 @@ OLAYA: Yeah, thank you!
 
 PETER: Thank you so much for joining us! So as we're wrapping up here, one final question for you, Kaela, where can people find you on social media?
 
-KAELA: Oh, you can find me on Twitter or Instagram @kss_phd. I also have a website, it's kaelasingleton.com.
+KAELA: Oh, you can find me on (Twitter)[https://twitter.com/kss_phd] or (Instagram)[https://instagram.com/kss_phd] @kss_phd. I also have a website, it's (kaelasingleton.com)[https://kaelasingleton.com].
 
 PETER: Awesome. Well thank you for taking time, both of you, to record this.
 
