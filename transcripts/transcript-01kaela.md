@@ -149,7 +149,7 @@ KAELA: Yes, yes.
 
 PETER: It's not the most constructive way of communicating. 
 
-OLAYA: You can yell in excitement. [Kaela & PETER: Yes]. When your test number 19 finally works. 
+OLAYA: You can yell in excitement. [KAELA & PETER: Yes]. When your test number 19 finally works. 
 
 PETER: That is an appropriate time. So it sounds like your search for a postdoc was heavily centered around an idea of finding community, being able to cultivate community wherever you landed. Can you talk a little bit about what aspects of community you were searching for or how you found that in your postdoc? 
 
