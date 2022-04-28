@@ -107,7 +107,7 @@ OLAYA: Yeah. I'm glad that free time is actually just being a couch potato.
 
 PETER: Yes , all right. Well, let's dive into who is a postdoc? So you gave us that beautiful intro. If you want, maybe give us that intro again and add more if you want. 
 
-KAELA: Yeah. I'm Dr. Kaela Singleton. I'm a Black Samoan queer woman. I'm a developmental neuroscientist. My pronouns are she/her. I was born in Texas and raised in Grayson, Georgia. And so I'm a big fan of the South. I got my PhD from Georgetown University before I returned to the South in the hot summers [OLAYA: ] to work at Emory university.
+KAELA: Yeah. I'm Dr. Kaela Singleton. I'm a Black Samoan queer woman. I'm a developmental neuroscientist. My pronouns are she/her. I was born in Texas and raised in Grayson, Georgia. And so I'm a big fan of the South. I got my PhD from Georgetown University before I returned to the South in the hot summers [OLAYA: <laugh>] to work at Emory university.
 
 PETER: Nice. And what is it about Emory that drew you in to do a postdoc? 
 
