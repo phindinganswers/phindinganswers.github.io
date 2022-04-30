@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 01 - Kaela Singleton"
-date: 2022-04-23 09:00:00
+date: 2022-04-30 09:00:00
 file: https://archive.org/download/episode-01-kaela/Episode01_Kaela.mp3
 file_itunes: https://archive.org/download/episode-01-kaela/Episode01_Kaela.mp3
 excerpt:  In this podcast, former postdoc hosts Dr. Olaya Fernández Gayol and Dr. Peter Myers address the questions around the postdoc position with a panel of guests spanning career stages, choices and geographical locations.Let’s PhinD some answers together! In this first interview, Peter and Olaya talk to current postdoc Kaela Singleton (Emory University) and discuss agency, why you should approach finding a postdoc like dating and the need for radical systemic change in academia.
