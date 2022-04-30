@@ -15,12 +15,12 @@ episodes:
     download_link: https://archive.org/download/phindinganswers_ep00-intro/Episode00_Intro.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-00intro
-  - name: Ep1 — Kaela Singleton (coming Sat April 30th)
-    embed_link: 
-    download_link: 
+  - name: Ep1 — Kaela Singleton
+    embed_link: https://archive.org/embed/episode-01-kaela
+    download_link: https://archive.org/download/episode-01-kaela/Episode01_Kaela.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-01kaela
-  - name: Ep2 — Upasana Roy (coming soon)
+  - name: Ep2 — Upasana Roy (coming May 7th)
     embed_link: 
     download_link: 
     resources_link: https://phindinganswers.github.io/pages/resources.html
