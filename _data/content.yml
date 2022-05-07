@@ -20,12 +20,12 @@ episodes:
     download_link: https://archive.org/download/episode-01-kaela/Episode01_Kaela.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-01kaela
-  - name: Ep2 — Upasana Roy (coming May 7th)
-    embed_link: 
-    download_link: 
+  - name: Ep2 — Upasana Roy
+    embed_link: https://archive.org/embed/ep02-upasana
+    download_link: https://archive.org/download/ep02-upasana/Episode02_Upasana.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-02upasana
-  - name: Ep3 — Serena Tucci (coming soon)
+  - name: Ep3 — Serena Tucci (coming May 14th)
     embed_link: 
     download_link: 
     resources_link: https://phindinganswers.github.io/pages/resources.html
