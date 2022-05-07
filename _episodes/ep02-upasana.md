@@ -17,5 +17,5 @@ In this podcast, former postdoc hosts Dr. Olaya Fernández Gayol and Dr. Peter M
 In this second interview, Peter and Olaya talk to current postdoc Upasana Roy (Columbia University) and discuss how you can love science and still choose to walk out from academia (intentially!), fill your free time with fulfilling activities and how lab skills can come in handy in the kitchen.
 Follow us on Twitter [@phindinganswers](https://twitter.com/phindinganswers) and reach out via email to [phindinganswers@gmail.com](mailto:phindinganswers@gmail.com).
 
-- Find the guest's bios and all the resources we talk about on our website
-- New episodes every Saturday!
+* Find the guest's bios and all the resources we talk about on our [website](https://phindinganswers.github.io).
+* New episodes every Saturday!
