@@ -25,12 +25,12 @@ episodes:
     download_link: https://archive.org/download/ep02-upasana/Episode02_Upasana.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-02upasana
-  - name: Ep3 — Serena Tucci (coming May 14th)
-    embed_link: 
-    download_link: 
+  - name: Ep3 — Serena Tucci
+    embed_link: https://archive.org/embed/episode-03-serena
+    download_link: https://archive.org/download/episode-03-serena/Episode03_Serena.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-03serena
-  - name: Ep4 — Jenny Bratburd (coming soon)
+  - name: Ep4 — Jenny Bratburd (coming May 21st)
     embed_link: 
     download_link: 
     resources_link: https://phindinganswers.github.io/pages/resources.html
