@@ -329,24 +329,3 @@ footer.footer {
 		padding-top:$gap*2;
 	}
 }
-/* COLLAPSIBLE HEADERS
-/* Style the button that is used to open and close the collapsible content */
-.collapsible {
-	background-color: $white;
-	color: $blue;
-	cursor: pointer;
-	padding: 18px;
- 	width: 100%;
-  	border: none;
-  	text-align: left;
-  	outline: none;
-  	font-size: 20px;
-  }
-  
-  /* Style the collapsible content. Note: hidden by default */
-  .content {
-	padding: 0 18px;
-	display: none;
-	overflow: hidden;
-	background-color: $white;
-  }
