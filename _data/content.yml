@@ -30,12 +30,12 @@ episodes:
     download_link: https://archive.org/download/episode-03-serena/Episode03_Serena.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-03serena
-  - name: Ep4 — Jenny Bratburd (coming May 21)
-    embed_link: 
-    download_link: 
+  - name: Ep4 — Jenny Bratburd
+    embed_link: https://archive.org/download/episode-04-jenny/Episode04_Jenny.mp3
+    download_link: https://archive.org/embed/episode-04-jenny
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-04jenny
-  - name: Ep5 — Ericka Peterson (coming soon)
+  - name: Ep5 — Ericka Peterson (coming May 28th)
     embed_link: 
     download_link:
     resources_link: https://phindinganswers.github.io/pages/resources.html
