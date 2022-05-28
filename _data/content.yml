@@ -35,9 +35,9 @@ episodes:
     download_link: https://archive.org/embed/episode-04-jenny
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-04jenny
-  - name: Ep5 — Ericka Peterson (coming May 28th)
-    embed_link: 
-    download_link:
+  - name: Ep5 — Ericka Peterson
+    embed_link: https://archive.org/embed/episode-05-ericka
+    download_link: https://archive.org/download/episode-05-ericka/Episode05_Ericka.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-05ericka
   - name: Ep6 — All the answers! (coming soon)
