@@ -40,8 +40,8 @@ episodes:
     download_link: https://archive.org/download/episode-05-ericka/Episode05_Ericka.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-05ericka
-  - name: Ep6 — All the answers! (coming soon)
-    embed_link: 
-    download_link:
+  - name: Ep6 — All the answers!
+    embed_link: https://archive.org/embed/episode-06-answers
+    download_link: https://archive.org/download/episode-06-answers/Episode06_Answers.mp3
     resources_link: https://phindinganswers.github.io/pages/resources.html
     transcript_file: transcript-06answers
